@@ -1,0 +1,20 @@
+Group Name : Git'erDun
+Group members : Caroline Farchmin, Rusty Smith, Matt Preacher, Nikhil Mahajan
+
+Project Aim:
+What is the most important factor in a countries happiness Rating
+
+Datasets to Use
+
+1. Happiness Dataset
+
+
+Graphs
+(1) scatter plots by year for all country, for each of parameter
+(2) line plots by country for all years, along with all the parameters as line plots too
+(3) bar graph for happiest and the saddest countries
+
+
+Views/Displays
+-- Googlemaps overlay heatmap of happy and sad people by country
+
